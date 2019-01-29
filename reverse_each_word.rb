@@ -17,6 +17,6 @@ def reverse_each_word(str)
     word.reverse
   end
   
-  finalStr = strArr.join(" ")
+  finalStr = newArr.join(" ")
   return finalStr
 end
