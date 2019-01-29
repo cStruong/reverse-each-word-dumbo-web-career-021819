@@ -10,6 +10,8 @@ def reverse_each_word(str)
   return finalStr
 end
 
+
+
 def reverse_each_word(str)
   strArr = str.split(" ")
   
